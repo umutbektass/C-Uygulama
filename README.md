@@ -1,5 +1,5 @@
 # C# Sql-Uygulama
-C# ve Sql kullanılarak asansör hizmeti veren firmanın müşterileri için müşteri girişi ve asansörü için periyodik bakım bilgileri,personeller için teknik servis ve muhasebe girişi gibi farklı kullanıcı girişi ile kullanıcıya özel form ekranı açılarak yapılan işlemleri kayıt altında tutmaktadır.
+C# ve Sql kullanılarak asansör hizmeti veren firmanın müşterileri için müşteri girişi ve asansörü için periyodik bakım bilgileri,personeller için teknik servis ve muhasebe girişi gibi farklı kullanıcı girişi ile kullanıcıya özel form ekranı açılarak yapılan işlemleri kayıt altında tutmaktadır. Formlar arası geçiş,veri aktaramı ve kalıtım gibi işlemler kullanılmıştır.
 
 
 
