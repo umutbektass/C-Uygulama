@@ -1,0 +1,16 @@
+C:\Users\Umut BEKTAŞ\source\repos\Asansorotomasyon\Asansorotomasyon\bin\Debug\Asansorotomasyon.exe.config
+C:\Users\Umut BEKTAŞ\source\repos\Asansorotomasyon\Asansorotomasyon\bin\Debug\Asansorotomasyon.exe
+C:\Users\Umut BEKTAŞ\source\repos\Asansorotomasyon\Asansorotomasyon\bin\Debug\Asansorotomasyon.pdb
+C:\Users\Umut BEKTAŞ\source\repos\Asansorotomasyon\Asansorotomasyon\obj\Debug\Asansorotomasyon.csprojAssemblyReference.cache
+C:\Users\Umut BEKTAŞ\source\repos\Asansorotomasyon\Asansorotomasyon\obj\Debug\Asansorotomasyon.Form1.resources
+C:\Users\Umut BEKTAŞ\source\repos\Asansorotomasyon\Asansorotomasyon\obj\Debug\Asansorotomasyon.Properties.Resources.resources
+C:\Users\Umut BEKTAŞ\source\repos\Asansorotomasyon\Asansorotomasyon\obj\Debug\Asansorotomasyon.csproj.GenerateResource.cache
+C:\Users\Umut BEKTAŞ\source\repos\Asansorotomasyon\Asansorotomasyon\obj\Debug\Asansorotomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Umut BEKTAŞ\source\repos\Asansorotomasyon\Asansorotomasyon\obj\Debug\Asansorotomasyon.exe
+C:\Users\Umut BEKTAŞ\source\repos\Asansorotomasyon\Asansorotomasyon\obj\Debug\Asansorotomasyon.pdb
+C:\Users\Umut BEKTAŞ\source\repos\Asansorotomasyon\Asansorotomasyon\obj\Debug\Asansorotomasyon.Form3.resources
+C:\Users\Umut BEKTAŞ\source\repos\Asansorotomasyon\Asansorotomasyon\obj\Debug\Asansorotomasyon.Form4.resources
+C:\Users\Umut BEKTAŞ\source\repos\Asansorotomasyon\Asansorotomasyon\obj\Debug\Asansorotomasyon.Form5.resources
+C:\Users\Umut BEKTAŞ\source\repos\Asansorotomasyon\Asansorotomasyon\obj\Debug\Asansorotomasyon.Form6.resources
+C:\Users\Umut BEKTAŞ\source\repos\Asansorotomasyon\Asansorotomasyon\obj\Debug\Asansorotomasyon.Form7.resources
+C:\Users\Umut BEKTAŞ\source\repos\Asansorotomasyon\Asansorotomasyon\obj\Debug\Asansorotomasyon.Teknisyen.resources
